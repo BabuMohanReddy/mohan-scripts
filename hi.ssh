@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "hi mohan"
+
+
+echo "learing devops-zero-to-hero"
+
+
+date
+
+whoami
+
