@@ -1,5 +1,8 @@
 #!/bin/bash
-
+<<help 
+this is a shell script to the backups 
+can also br with cron
+help
 source_dir="/home/ubuntu/mohan-zero-to-hero/mohan-scripts"
 destination_dir="/home/ubuntu/mohan-zero-to-hero/backups"
 
